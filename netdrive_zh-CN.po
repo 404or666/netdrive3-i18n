@@ -55,7 +55,7 @@ msgstr "安装"
 #: ../../NetDriveUI/adddrive.ui:294
 msgctxt "AddDrive|"
 msgid "as"
-msgstr "作为"
+msgstr "选择"
 
 #: ../../NetDriveUI/adddrive.ui:322
 msgctxt "AddDrive|"
